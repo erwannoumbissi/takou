@@ -1,0 +1,67 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    box-sizing: border-box;
+}
+.ensemble{
+    border-radius: 1000px;
+}
+.image{
+    margin-top: 50px;
+    height: 150px;
+    padding-left: 300px;
+    width: 100px;
+}
+.titre{
+    margin-top:460px ;
+    padding-left:300px ;
+    font-size: 1.9rem;
+    font-weight: bold;
+    color: black;
+    
+}
+.jauneetoile{
+   display: inline-block;
+   margin: auto;
+}
+.jaune{
+    color: yellow;
+    margin-top:10px ;
+    padding-left: 300px;
+   text-decoration: none;
+   width: 100px;
+   font-size: 2.2rem;
+   font-weight: bold;
+}
+#etoile{
+    color: gray;
+    font-size: 1.5rem;
+}
+
+
+
+.dollar{
+    color: dodgerblue;
+    font-size: 1.9rem;
+    padding-left: 300px;
+    margin-top:25px ;
+    font-weight: bold;
+}
+.texte{
+    color: gray;
+    font-size: 1.5rem;
+    padding-left: 300px;
+    margin-top: 10px;
+}
+.button{
+    
+       
+        margin-top: 40px;
+        padding-left: 600px;
+        height: 100px;
+        width: 280px;
+        padding-top: 120px;
+        margin-left: 300px;
+}
